@@ -6,14 +6,21 @@
     font-size: 36px;
     font-style: italic;
     font-weight: 550;
+    border: grey;
+    border-radius: 20px;    
+    border: grey;
+    border-radius: 20px;
 }
 
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(2, 188, 2);
     font-style: oblique;
+    color: white;
     text-decoration: underline;
     text-align: center;
+    border: grey;
+    border-radius: 20px;
 }
 
 p,
